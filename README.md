@@ -1,5 +1,7 @@
 # PIXI project template
 
-Tutorial: https://gamedev.land/pixi_project_template/
+1.Clone the project 
+2.Run ```npm install```
+3.Run ```npm start```
 
 
